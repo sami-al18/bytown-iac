@@ -1,0 +1,5 @@
+docker_container.web[0]
+docker_container.web[1]
+docker_container.web[2]
+docker_image.nginx
+docker_network.lab
