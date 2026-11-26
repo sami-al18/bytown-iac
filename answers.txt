@@ -1,0 +1,4 @@
+Q1: In 3a terraform detected the missing container and recreated it during 'terraform apply -auto-approve' command to match the configuration
+Q2: terraform.tfstate was not committed to git because it contain sensitive data and, so it should not be committed
+Q3: Terraform provisions infrastructure while Ansible configures software and systems on existing infrastructure
+Q4: The providers like AWS and Azure secures physical datacenters while the users secure VM access, OS updates, and firewall settings
